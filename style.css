@@ -1,0 +1,26 @@
+table{
+    margin: auto;
+    width:50%;
+    line-height: 20px;
+
+}
+#total{
+    text-align: center;
+}
+table,td,th{
+    border-collapse:collapse;
+}
+td{
+    text-align: center;
+}
+th,td{
+    border-bottom: darkgray;}
+tr:nth-child(odd)
+{ background-color: darkgrey;
+
+}
+th{
+    background-color: rgba(0, 0, 0, 0.603);
+    color:white;
+}
+
