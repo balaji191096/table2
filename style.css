@@ -14,7 +14,7 @@ td{
     text-align: center;
 }
 th,td{
-    border-bottom: darkgray;}
+    border-bottom: 2px solid darkgray;}
 tr:nth-child(odd)
 { background-color: darkgrey;
 
